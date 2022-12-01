@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 Now that osTicket has been successfully configured from scratch, the next steps will consist of system administration and post installation setup.
-First, configure new roles within the help desk. To do so, go to Admin panel-> Agents-> Roles. Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Keep in mind roles are used to determine an agents permissions so not all agents will have unlimited access. If you followed the steps correctly your screen should like something like this. As you can see we have successfully created the "Supreme Admin" role.
+First, configure new roles within the help desk. To do so, go to Admin panel -  Agents - Roles. Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Keep in mind roles are used to determine an agents permissions so not all agents will have unlimited access. If you followed the steps correctly your screen should like something like this. As you can see we have successfully created the "Supreme Admin" role.
 </p>
 <a href="https://imgur.com/H7T2Ho9"><img src="https://i.imgur.com/H7T2Ho9.jpg" title="source: imgur.com" /></a>
 </p>
@@ -32,21 +32,21 @@ First, configure new roles within the help desk. To do so, go to Admin panel-> A
 <p>
 </p>
 <p>
-Select the "Departments" button in the agents tab. Here we will be able to create a new department. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. In this case we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab. 
+Select the "Departments" in the agents tab. You will be able to create a new department from here. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. For this example, we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be established in the departments tab. 
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/dGK0RVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team. 
+Each time a new department is configfured, a new team is required to be established. Teams allow you to pull agents from various departments. For example, you may have an A team that has top technicians from a number of specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To create a team, go to Agents - Teams. A Level I support team has been created by default. In this example, a Level II Support Team will be created. 
 </p>
 <br />
 <p>
 <a href="https://imgur.com/rZ92VL7"><img src="https://i.imgur.com/rZ92VL7.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
+After the creation of a new team, you will configure settings that will enable anyone to create tickets. Admin Panel-Settings-User Settings.
 
 </p>
 <br />
