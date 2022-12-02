@@ -74,7 +74,7 @@ SLAs provide a length of time in which the help desk is expected to take in orde
 <a href="https://imgur.com/ujc1fLa"><img src="https://i.imgur.com/ujc1fLa.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage". This particualr topic refers to customers inability to access mobile banking.
+Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage". This particualr topic could be in reference to customers inability to access mobile banking or any number of other user related issues.
 </p>
 <br />
 <a href="https://imgur.com/OKfBexf"><img src="https://i.imgur.com/OKfBexf.jpg" title="source: imgur.com" /></a>
