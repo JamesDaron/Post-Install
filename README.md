@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 Now that osTicket has been successfully configured from the ground up, the next steps will consist of system administration and post installation setup.
-First, configure new roles within the help desk. To do so, go to Admin panel -  Agents - Roles. Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Be aware that roles are used to determine an agents permissions. That being said, not all agents will have unlimited access. During the setup process your screen should resemble something like this. As you can see we have successfully created the "Supreme Admin" role.
+First, configure new roles within the help desk. To do so, go to Admin panel -  Agents - Roles. Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Be aware that roles are used to determine an agents permissions. That being said, not all agents will have unlimited access. During the setup process your screen should resemble something like this. 
 </p>
 <a href="https://imgur.com/H7T2Ho9"><img src="https://i.imgur.com/H7T2Ho9.jpg" title="source: imgur.com" /></a>
 </p>
